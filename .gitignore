@@ -28,3 +28,6 @@ htmlcov/
 # OS
 .DS_Store
 Thumbs.db
+
+# All generated pipeline outputs
+data/processed/

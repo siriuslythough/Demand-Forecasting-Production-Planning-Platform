@@ -13,6 +13,12 @@ dependencies = [
     "numpy",
     "pyarrow",
     "matplotlib",
+    "scikit-learn",
+    "lightgbm",
+    "statsmodels",
+    "joblib",
+    "pyomo",
+    "highspy",
 ]
 
 [tool.setuptools.packages.find]
